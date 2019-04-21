@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VoiceRecognition</string>
+    <string name="touch_me">To listen by me please touch here</string>
+    <string name="connectivity_warning">Please check your network connectivity</string>
+    <string name="say">You say :</string>
+    <string name="choose">Please select one of the following</string>
+</resources>
